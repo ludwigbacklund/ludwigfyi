@@ -45,7 +45,9 @@ You have to understand the big picture before you focus on the nuances. Many pro
 
 ### Dig into signals.
 
-Something you should dig deep into is the signals people put out. What is a signal? If someone tells you that your product must have X feature, that is a signal. If someone tells you that the worst part of their day is when they have to Y, that is also a signal. The wrong thing to do when you encounter a signal is to write it down and move on. What would feature X allow them to do? Why does having to do Y suck so much? These are the things you should ask instead. If it turns out that the underlying problem is less important than the signal indicated, you know you can drop it. But if the problem turns out to be a real time thief, a key buying criteria or something as important then that is invaluable information. Understand their motivations to get to the real problem rather then the perceived one.
+Something you should dig deep into is the signals people put out. What is a signal? If someone tells you that your product must have X feature, that is a signal. If someone tells you that the worst part of their day is when they have to Y, that is also a signal. The wrong thing to do when you encounter a signal is to write it down and move on. What would feature X allow them to do? Why does having to do Y suck so much? These are the things you should ask instead.
+
+If it turns out that the underlying problem is less important than the signal indicated, you know you can drop it. But if the problem turns out to be a real time thief, a key buying criteria or something as important then that is invaluable information. Understand their motivations to get to the real problem rather then the perceived one.
 
 > Why do they bother doing it this way? Why do they want the feature? How are they currently coping without the feature? Dig.
 
@@ -83,7 +85,9 @@ Taking good notes is a very important part of the customer conversation process.
 
 ### Know what happens next.
 
-Don't let your meetings fizzle out with empty compliments and no clear commitments. Every meeting should end with you knowing what the next steps are. These next steps can take different forms. Commitment is one, showing they are willing to give up something of theirs like time, reputation or money. Advancement is another which is when they move further towards a purchase decision. Meetings either succeed or fail and you are responsible for where your meetings land—make them give something up to show that they are interested for real. If they aren't interested you have still succeeded in learning how they really feel about your product or idea.
+Don't let your meetings fizzle out with empty compliments and no clear commitments. Every meeting should end with you knowing what the next steps are. These next steps can take different forms. Commitment is one, showing they are willing to give up something of theirs like time, reputation or money. Advancement is another which is when they move further towards a purchase decision.
+
+Meetings either succeed or fail and you are responsible for where your meetings land—make them give something up to show that they are interested for real. If they aren't interested you have still succeeded in learning how they really feel about your product or idea.
 
 > I never consider rejection to be a real failure. But not asking certainly is.
 
