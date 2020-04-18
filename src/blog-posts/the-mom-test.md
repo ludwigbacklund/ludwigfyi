@@ -1,6 +1,6 @@
 ---
 path: "/the-mom-test"
-date: "2020-04-04"
+date: "2020-04-19"
 title: '"The Mom Test" in five minutes - a summary'
 description: 'Talking to potential customers is hard and getting valuable answers is harder. Rob Fitzpatrick tries to make it easier by laying out the dos and definitely do nots of customer conversations in "The Mom Test".'
 ---
@@ -33,7 +33,7 @@ The future is a cushy place, if you go by what people will tell you about it. Of
 
 ### If they haven't looked for a solution already, they won't look for yours.
 
-During your conversations you will unearth a lot of problems that people face. Some of them are worth exploring further, others aren't. To make that distinction you can ask a simple but very effective question: "what have you tried to fix that?". If the answer is in the vein of "Well... nothing so far, I'm used to dealing with it" you'll see that the problem wasn't that critical to begin with. Some problems are just easy to whine about but ultimately don't make any difference to the bottom line.
+During your conversations you will unearth a lot of problems that people face. Some of them are worth exploring further, others aren't. To make that distinction you can ask a simple but very effective question: "What have you done to try and fix that?". If the answer is in the vein of "Well... nothing so far, I'm used to dealing with it" you'll see that the problem wasn't that critical to begin with. Some problems are just easy to whine about but ultimately don't make any difference to the bottom line.
 
 ## Conversations - A balancing act
 
@@ -85,7 +85,7 @@ Taking good notes is a very important part of the customer conversation process.
 
 ### Know what happens next.
 
-Don't let your meetings fizzle out with empty compliments and no clear commitments. Every meeting should end with you knowing what the next steps are. These next steps can take different forms. Commitment is one, showing they are willing to give up something of theirs like time, reputation or money. Advancement is another which is when they move further towards a purchase decision.
+Don't let your meetings fizzle out with empty compliments and no clear commitments. Every meeting should end with you knowing what the next steps are. These next steps can take different forms. Commitment is one, showing they are willing to give up something of theirs like time, reputation or money. Advancement is another which is when they move further towards a purchasing decision.
 
 Meetings either succeed or fail and you are responsible for where your meetings land—make them give something up to show that they are interested for real. If they aren't interested you have still succeeded in learning how they really feel about your product or idea.
 
@@ -93,7 +93,7 @@ Meetings either succeed or fail and you are responsible for where your meetings 
 
 ### Just do it.
 
-Don't spend weeks and months on prep. In the end you'll have to take a leap anyway, and the sooner you do that the earlier you can get learning. So just do it!
+Don't spend weeks and months on prep. In the end you'll have to take the leap anyway, and the sooner you do that the earlier you can get learning. So just do it!
 
 > Customer learning can move really quickly when you’re doing it right. This book isn’t meant to give you an excuse to squander precious months theorising and planning the “perfect question”. It’s meant to help you extract maximum value in minimum time so you can get back to what really matters: building your business.
 
