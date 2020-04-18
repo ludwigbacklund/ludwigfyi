@@ -3,9 +3,12 @@ import Typography from "typography"
 const typography = new Typography({
   baseFontSize: "18px",
   baseLineHeight: 1.666,
-  googleFonts: [{ name: "Cabin", styles: [] }],
-  headerFontFamily: ["Cabin", "Arial", "sans-serif"],
-  bodyFontFamily: ["Georgia", "serif"],
+  googleFonts: [
+    { name: "Cabin", styles: [] },
+    { name: "Open Sans", styles: [] },
+  ],
+  headerFontFamily: ["Cabin", "sans-serif"],
+  bodyFontFamily: ["Open Sans", "serif"],
 })
 
 export default typography
