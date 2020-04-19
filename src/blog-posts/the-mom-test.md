@@ -2,10 +2,10 @@
 path: "/the-mom-test"
 date: "2020-04-19"
 title: '"The Mom Test" in five minutes - a summary'
-description: 'Talking to potential customers is hard and getting valuable answers is harder. Rob Fitzpatrick tries to make it easier by laying out the dos and definitely do nots of customer conversations in "The Mom Test".'
+description: 'Talking to customers is hard and getting valuable answers is even harder. Rob Fitzpatrick tries to make it easier by laying out the dos and definitely do nots of customer conversations in "The Mom Test".'
 ---
 
-This is a quick distillation of "The Mom Test" by Rob Fitzpatrick. It contains summaries of what I found to be the impactful parts of a great book. You should definitely [buy the book](http://momtestbook.com/) to understand the full picture and get access to a plethora of practical tips, example questions, anecdotes and inspiring quotes that I did not include in this summary.
+This is a quick distillation of "The Mom Test" by Rob Fitzpatrick, a book on validating your business by talking to customers who are lying to you (in a nice way). This article summarizes what I found to be the impactful parts of a great book. You should definitely [buy the book](http://momtestbook.com/) to see the full picture and get access to a plethora of practical tips, example questions, anecdotes and inspiring quotes that I did not include in this summary.
 
 ## The Mom Test
 
