@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/Layout"
+import SEO from "../components/SEO"
 
 const MATERIAL_UI_COLORS = [
   "#f44336",
@@ -15,7 +16,10 @@ const MATERIAL_UI_COLORS = [
 
 const BlogPost = ({
   data: {
-    markdownRemark: { frontmatter, html },
+    markdownRemark: {
+      frontmatter: { date, title, description },
+      html,
+    },
   },
 }) => {
   const [rotatingColorIndex, setRotatingColorIndex] = useState(0)
@@ -30,16 +34,19 @@ const BlogPost = ({
   })
 
   return (
-    <Layout>
-      <Wrapper className="blog-post-container">
-        <Date>{frontmatter.date}</Date>
-        <Title>{frontmatter.title}</Title>
-        <Content
-          rotatingColor={MATERIAL_UI_COLORS[rotatingColorIndex]}
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
-      </Wrapper>
-    </Layout>
+    <>
+      <SEO title={title} />
+      <Layout>
+        <Wrapper className="blog-post-container">
+          <Date>{date}</Date>
+          <Title>{title}</Title>
+          <Content
+            rotatingColor={MATERIAL_UI_COLORS[rotatingColorIndex]}
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </Wrapper>
+      </Layout>
+    </>
   )
 }
 
@@ -93,6 +100,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        description
       }
     }
   }

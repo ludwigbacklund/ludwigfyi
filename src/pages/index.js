@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/Layout"
-import SEO from "../components/SEO"
 import linkedIn from "../images/linkedin.svg"
 import github from "../images/github.svg"
 
@@ -13,7 +12,6 @@ const IndexPage = ({
   },
 }) => (
   <IndexLayout>
-    <SEO title="Home" />
     <LeftSection>
       <Heading>Ludwig Bäcklund</Heading>
       <SocialLink href="https://www.linkedin.com/in/ludwigbacklund/">
@@ -31,7 +29,7 @@ const IndexPage = ({
             frontmatter: { path, title, date, description },
           },
         }) => (
-          <Post>
+          <Post key={title}>
             <PostDate>{date}</PostDate>
             <PostLink to={path}>
               <PostHeading>{title}</PostHeading>
