@@ -3,6 +3,7 @@ module.exports = {
     title: `ludwig.fyi`,
     description: ``,
     author: `Ludwig Bäcklund`,
+    siteUrl: "https://ludwig.fyi",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -52,5 +53,6 @@ module.exports = {
       },
     },
     "gatsby-plugin-styled-components",
+    "gatsby-plugin-sitemap",
   ],
 }
