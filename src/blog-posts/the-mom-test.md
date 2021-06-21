@@ -1,7 +1,7 @@
 ---
 path: "/the-mom-test"
 date: "2020-04-19"
-title: '"The Mom Test" in five minutes - a summary'
+title: 'The Mom Test summary in five minutes'
 description: 'Talking to customers is hard and getting valuable answers is even harder. Rob Fitzpatrick tries to make it easier by laying out the dos and definitely do nots of customer conversations in "The Mom Test".'
 ---
 
